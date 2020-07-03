@@ -1,8 +1,11 @@
 git上传过程：
+
 1、$ git add XX: 
 ## xx指示是添加某个文件
+
 2、$git commit -m "xx"：
 ##指的是为文件做一个简短的说明；
+
 3、$git push
 ##输入命令把文档输入GitHub上；
 
